@@ -1,0 +1,7 @@
+logging:
+  config: classpath:log4j2.xml
+
+server:
+  tomcat:
+    uri-encoding: UTF-8
+  port: 18080
